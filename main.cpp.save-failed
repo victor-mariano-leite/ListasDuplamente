@@ -1,0 +1,22 @@
+#include <iostream>
+#include "Node.h"
+#include "Lista.h"
+using namespace std;
+
+int main(){
+Lista a;
+a.push_back(10);
+a.push_back(20);
+a.push_back(30);
+a.push_back(40);
+a.delete_after_aleatory(a.head->next->next);
+a.print_list();
+
+
+
+
+
+
+
+    return 0;
+}

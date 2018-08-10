@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1521675895 source:c:\users\roberto\desktop\nova pasta\listaduplamente\main.cpp
+	<iostream>
+
+1521675895 source:c:\users\roberto\desktop\nova pasta\listaduplamente\src\node.cpp
+
+1521676296 source:c:\users\roberto\desktop\nova pasta\listaduplamente\src\lista.cpp
+
+1521720446 source:c:\users\roberto\google drive\faculdade\3°semestre\estrutura de dados\c++\listaduplamente\main.cpp
+	<iostream>
+	"Node.h"
+	"Lista.h"
+
+1521676296 source:c:\users\roberto\google drive\faculdade\3°semestre\estrutura de dados\c++\listaduplamente\src\lista.cpp
+
+1521675895 source:c:\users\roberto\google drive\faculdade\3°semestre\estrutura de dados\c++\listaduplamente\src\node.cpp
+
+1521675895 c:\users\roberto\google drive\faculdade\3°semestre\estrutura de dados\c++\listaduplamente\include\node.h
+	<iostream>
+
+1521720307 c:\users\roberto\google drive\faculdade\3°semestre\estrutura de dados\c++\listaduplamente\include\lista.h
+	<iostream>
+	"Node.h"
+
